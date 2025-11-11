@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+
+google-search-parser-google-maps-my-business-scraper/.keep
+text# This is a placeholder for the data folder to keep the directory structure intact.
