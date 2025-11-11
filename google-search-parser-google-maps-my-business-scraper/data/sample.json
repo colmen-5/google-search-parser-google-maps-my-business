@@ -1,0 +1,11 @@
+{
+    "company_name": "Staycation Co",
+    "website": "https://www.staycation.co",
+    "phone_number": "+1-234-567-8901",
+    "address": "123 Beach Rd, Miami, FL",
+    "reviews": 124,
+    "social_accounts": {
+        "facebook": "https://facebook.com/staycation",
+        "twitter": "https://twitter.com/staycation"
+    }
+}
